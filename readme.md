@@ -1,5 +1,5 @@
-Данный компонент возвращает курс валют в DTO формате с сервиса OpenExchangeRates. 
+This component returns the exchange rate in DTO format from the OpenExchangeRates service. 
 
-Необходимо прописать 'composer install' для установки зависимостей, а также создать .env файл с API ключом основываясь на .env.example
+It is necessary to register 'composer install' to install dependencies, and also create an .env file with an API key based on .env.example
 
-Для запуска скрипта тестов 'composer test' 
+To run the 'composer test' test script
